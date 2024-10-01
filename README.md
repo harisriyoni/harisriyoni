@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Human Resource and Payroll App Development**
 
-- 👨‍💻 All of my projects are available at [https://harisriyonii.github.io/](https://harisriyonii.github.io/)
+- 👨‍💻 All of my projects are available at [https://harisriyoni.github.io/](https://harisriyonii.github.io/)
 
 - 💬 Ask me about **PHP, Go, JavaScript, MongoDB, MYSQL, Google Cloud Platform**
 
